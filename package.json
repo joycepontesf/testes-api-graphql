@@ -1,0 +1,16 @@
+{
+  "name": "testes-api-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joycepontesf",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "pactum": "^3.7.6"
+  }
+}
