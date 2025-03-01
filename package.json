@@ -12,5 +12,8 @@
   "devDependencies": {
     "mocha": "^11.1.0",
     "pactum": "^3.7.6"
+  },
+  "dependencies": {
+    "pactum-flow-plugin": "^0.1.4"
   }
 }
